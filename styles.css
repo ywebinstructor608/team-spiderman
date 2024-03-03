@@ -121,7 +121,7 @@ nav div a img {
 
 .header {
   text-align: center;
-  background-image: url("/images/hero-section-bg.png");
+  background-image: url("images/hero-section-bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -149,7 +149,7 @@ nav div a img {
   text-align: center;
   background-color: red;
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)),
-    url("/images/contact-hero-section-bg.png");
+    url("images/contact-hero-section-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
